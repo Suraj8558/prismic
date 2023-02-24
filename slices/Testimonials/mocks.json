@@ -1,0 +1,102 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "Title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading4",
+            "content": {
+              "text": "Station"
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "Profile",
+            {
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+                "width": 2747,
+                "height": 4120
+              },
+              "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+              "width": 2747,
+              "height": 4120,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ],
+          [
+            "Author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Fugiat dolor ex in ipsum id et deserunt velit. Anim occaecat veniam dolore pariatur incididunt sit velit occaecat consequat anim quis ullamco nisi sunt."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "Designation",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Ad ex nostrud quis."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "Raiting",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "1",
+              "type": "Select"
+            }
+          ],
+          [
+            "Description",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Pariatur eiusmod minim cupidatat excepteur adipisicing cupidatat cillum officia nisi est et Lorem non deserunt labore. Anim amet veniam sit dolor dolore culpa consectetur laboris consequat veniam veniam mollit officia Lorem."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

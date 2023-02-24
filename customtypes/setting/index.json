@@ -1,0 +1,85 @@
+{
+  "id": "setting",
+  "label": "Setting",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "SiteTitle": {
+        "type": "Text",
+        "config": {
+          "label": "Site Title",
+          "placeholder": ""
+        }
+      },
+      "Logo": {
+        "type": "Image",
+        "config": {
+          "label": "Logo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "Email": {
+        "type": "Link",
+        "config": {
+          "label": "E-mail",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "EmailIcon": {
+        "type": "Text",
+        "config": {
+          "label": "E-Mail Icom",
+          "placeholder": ""
+        }
+      },
+      "Phone": {
+        "type": "Text",
+        "config": {
+          "label": "Phone",
+          "placeholder": ""
+        }
+      },
+      "PhoneIcon": {
+        "type": "Text",
+        "config": {
+          "label": "Phone Icon",
+          "placeholder": ""
+        }
+      },
+      "CopyRightText": {
+        "type": "Text",
+        "config": {
+          "label": "CopyRight Text",
+          "placeholder": ""
+        }
+      },
+      "Socail": {
+        "type": "Group",
+        "config": {
+          "label": "Socail",
+          "fields": {
+            "icon": {
+              "type": "Text",
+              "config": {
+                "label": "Icon",
+                "placeholder": "add icon name exaple  twitter"
+              }
+            },
+            "IconLink": {
+              "type": "Link",
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "allowTargetBlank": false,
+                "select": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_cts": {
+    "setting": {
+      "Socail": {}
+    },
+    "page": {},
+    "header": {},
+    "menu": {
+      "Menu": {}
+    }
+  },
+  "slices": {
+    "HeroSection": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "HeaderTitle": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "ContentSection": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "BrandsLogo": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "ImageWithContent": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "BannerSection": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Services": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Testimonials": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Team": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Pricing": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Faq": {
+      "default": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "Blog": {}
+  }
+}

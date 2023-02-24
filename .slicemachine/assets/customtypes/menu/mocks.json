@@ -1,0 +1,44 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "indicate"
+  },
+  "Menu": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "MenuLabel",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "student",
+              "type": "Text"
+            }
+          ],
+          [
+            "MenuLink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://slicemachine.dev"
+              }
+            }
+          ],
+          [
+            "SubMenu",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "DocumentLink",
+                "id": "mock_document_id"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

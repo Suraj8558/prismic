@@ -1,0 +1,35 @@
+{
+  "Title": {
+    "__TYPE__": "FieldContent",
+    "value": "many",
+    "type": "Text"
+  },
+  "Logo": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+      "width": 12288,
+      "height": 16384
+    },
+    "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?rect=0%2C4096%2C12288%2C8192&w=150&h=100",
+    "width": 150,
+    "height": 100,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 4096
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "SelectMenu": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "DocumentLink",
+      "id": "mock_document_id"
+    }
+  }
+}

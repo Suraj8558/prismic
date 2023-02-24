@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "slicemachine": "start-slicemachine"
+  },
+  "devDependencies": {
+    "@nuxtjs/prismic": "^3.0.0-rc.2",
+    "@prismicio/slice-simulator-vue3": "^0.1.2",
+    "@prismicio/types": "^0.2.7",
+    "nuxt": "^3.0.0",
+    "slice-machine-ui": "^0.6.1"
+  },
+  "dependencies": {
+    
+  }
+}

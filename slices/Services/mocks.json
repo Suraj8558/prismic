@@ -1,0 +1,80 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "Title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Purpose"
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "Icon",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "signal",
+              "type": "Text"
+            }
+          ],
+          [
+            "Title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Irure nulla Lorem incididunt veniam veniam excepteur id do est proident fugiat laboris sit veniam eiusmod. Anim veniam amet ipsum."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "Description",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Do duis aliqua duis ad laboris commodo deserunt nulla exercitation tempor fugiat."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "ReadMorelabel",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "coming",
+              "type": "Text"
+            }
+          ],
+          [
+            "ReadMoreLink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "http://google.com"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

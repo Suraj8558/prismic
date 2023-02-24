@@ -1,0 +1,75 @@
+{
+  "id": "banner_section",
+  "type": "SharedSlice",
+  "name": "BannerSection",
+  "description": "BannerSection",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "BannerSection",
+      "primary": {
+        "BackgroundImage": {
+          "type": "Image",
+          "config": {
+            "label": "Background Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "VideoLink": {
+          "type": "Link",
+          "config": {
+            "label": "Video Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "VideoIcon": {
+          "type": "Text",
+          "config": {
+            "label": "Video Icon",
+            "placeholder": ""
+          }
+        },
+        "Title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading1,heading2,heading3,heading4"
+          }
+        },
+        "Description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your product",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "ActionLabel": {
+          "type": "Text",
+          "config": {
+            "label": "Action Label",
+            "placeholder": ""
+          }
+        },
+        "ActionLink": {
+          "type": "Link",
+          "config": {
+            "label": "Action Link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

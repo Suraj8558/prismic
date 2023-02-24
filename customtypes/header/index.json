@@ -1,0 +1,38 @@
+{
+  "id": "header",
+  "label": "Header",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "Title": {
+        "type": "Text",
+        "config": {
+          "label": "Title",
+          "placeholder": "Site Title"
+        }
+      },
+      "Logo": {
+        "type": "Image",
+        "config": {
+          "label": "Logo",
+          "constraint": {
+            "width": 150,
+            "height": 100
+          },
+          "thumbnails": []
+        }
+      },
+      "SelectMenu": {
+        "type": "Link",
+        "config": {
+          "label": "Select Menu",
+          "select": "document",
+          "customtypes": [
+            "menu"
+          ]
+        }
+      }
+    }
+  }
+}
